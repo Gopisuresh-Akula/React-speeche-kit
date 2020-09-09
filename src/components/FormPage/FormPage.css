@@ -1,0 +1,10 @@
+.ant-input {
+    width: 35% !important;
+    margin-bottom: 10px !important;
+  }
+  
+  form .ant-select, form .ant-cascader-picker {
+    width: 35% !important;
+    margin-bottom: 10px !important;
+  }
+  
